@@ -17,13 +17,6 @@ Contoh:
 Andi,80,70,90
 Budi,60,65,70
 
-## Cara Menjalankan
-1. Download/clone repository
-2. Buka Visual Studio
-3. File → Open → Project/Solution
-4. Buka `uas.slnx` atau langsung `uas.vbproj`
-5. Klik Start (Run)
-
 ## Kriteria Tugas Terpenuhi
 - Membaca file: OpenFileDialog + File.ReadAllLines()
 - Percabangan: If/ElseIf (validasi input, penentuan grade)
